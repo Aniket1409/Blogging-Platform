@@ -22,7 +22,7 @@ def get_mongo_client():
 client, posts_collection = get_mongo_client()
 
 # Streamlit App
-st.title("📝 Local MongoDB Blogging Platform")
+st.title("MongoDB Blogging Platform")
 st.write("A basic blog with local MongoDB storage")
 
 # Sidebar for new posts
