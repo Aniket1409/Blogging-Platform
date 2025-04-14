@@ -10,7 +10,7 @@
 
 ## Access Locally
 
-- Create a Local Project Directory, place app.py in it
+- Clone Repository https://github.com/Aniket1409/Blogging-Platform.git 
 - Create a folder named "mongodb_data" in Local Project Directory
 - Open a Code Editor in Local Project Directory
 - From Terminal '''streamlit run app.py'''
