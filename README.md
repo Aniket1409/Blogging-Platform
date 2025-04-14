@@ -13,4 +13,4 @@
 - Create a Local Project Directory, place blogging_platform.py in it
 - Create a folder named "mongodb_data" in Local Project Directory
 - Open a Code Editor in Local Project Directory
-- From Terminal '''streamlit run blogging_platform.py'''
+- From Terminal '''streamlit run app.py'''
