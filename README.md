@@ -6,11 +6,11 @@
 2. **Install MongoDB**
 3. **Install Required Python Packages**: Open Command Prompt and run the command
    pip install streamlit pymongo
-4. Storage (~300MB)
+4. Storage Required (~300MB)
 
 ## Access Locally
 
-- Create a Local Project Directory, place blogging_platform.py in it
+- Create a Local Project Directory, place app.py in it
 - Create a folder named "mongodb_data" in Local Project Directory
 - Open a Code Editor in Local Project Directory
 - From Terminal '''streamlit run app.py'''
